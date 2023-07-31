@@ -55,6 +55,7 @@ This subsection lists components implemented using the [Bootstrap CSS](https://g
 | 4 | ![Component 4](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-four.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
 | 5 | ![Component 5](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-five.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
 | 6 | ![Component 6](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-six.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 7 | ![Component 7](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-seven.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
 
 ### 🌀 Tailwind CSS Components
 
