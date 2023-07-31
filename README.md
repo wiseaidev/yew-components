@@ -49,9 +49,9 @@ This subsection lists components implemented using the [Bootstrap CSS](https://g
 
 | ID | Preview | Repo |
 |---|---|---|
-| 1 | ![Component 1](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-one.png) | [🔗 Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
-| 2 | ![Component 2](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-two.png) | [🔗 Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
-| 3 | ![Component 3](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-three.png) | [🔗 Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 1 | ![Component 1](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-one.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 2 | ![Component 2](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-two.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 3 | ![Component 3](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-three.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
 
 ### 🌀 Tailwind CSS Components
 
@@ -59,7 +59,7 @@ This subsection lists components implemented using the [Tailwind CSS](https://ta
 
 | ID | Preview | Repo |
 |---|---|---|
-| 1 | ![Component 1](https://github.com/wiseaidev/yew-components-tailwind/blob/main/assets/form-1.png) | [🔗 Repo](https://github.com/wiseaidev/yew-components-tailwind#-tailwind-css-components) |
+| 1 | ![Component 1](https://github.com/wiseaidev/yew-components-tailwind/blob/main/assets/form-1.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-tailwind#-tailwind-css-components) |
 
 ### 🌈 Bulma CSS Components
 
@@ -67,7 +67,7 @@ This subsection lists components implemented using the [Bulma CSS](https://bulma
 
 | ID | Preview | Repo |
 |---|---|---|
-| 1 | ![Component 1](./assets/form-1.png) | [🔗 Repo](todo) |
+| 1 | ![Component 1](./assets/form-1.png) | [🔗Repo](todo) |
 
 ### 🎨 Pure CSS Components
 
@@ -75,7 +75,7 @@ This subsection lists components implemented using just pure CSS. Pure CSS compo
 
 | ID | Preview | Repo |
 |---|---|---|
-| 1 | ![Component 1](./assets/form-1.png) | [🔗 Repo](todo) |
+| 1 | ![Component 1](./assets/form-1.png) | [🔗Repo](todo) |
 
 ## 🤝 Contributing
 
