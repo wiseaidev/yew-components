@@ -15,7 +15,7 @@ This repository contains a collection of reusable components written in Rust for
 
 ## 📖 Prologue
 
-[Yew](yew.rs) is a modern Rust framework for building multi-threaded front-end web applications. It aims to provide a productive and pleasant experience for developing front-end applications in Rust, leveraging its safety and performance benefits. By utilizing Yew, we can create interactive and efficient web applications with ease.
+[Yew](https://yew.rs/) is a modern Rust framework for building multi-threaded front-end web applications. It aims to provide a productive and pleasant experience for developing front-end applications in Rust, leveraging its safety and performance benefits. By utilizing Yew, we can create interactive and efficient web applications with ease.
 
 ## 🚀 Building and Running
 
@@ -82,7 +82,7 @@ This subsection lists components implemented using just pure CSS. Pure CSS compo
 
 ## 🤝 Contributing
 
-We welcome contributions to enhance the Rust Data Analysis repository! To contribute, please follow the [`CONTRIBUING.md`](CONTRIBUING.md) file guidelines. Thank you for helping make this project better!
+We welcome contributions to enhance the Rust Data Analysis repository! To contribute, please follow the [`CONTRIBUTING.md`](CONTRIBUTING.md) file guidelines. Thank you for helping make this project better!
 
 ## 📜 License
 
