@@ -11,7 +11,7 @@
 [![Share On Facebook](https://img.shields.io/badge/share%20on-facebook-1976D2?style=flat-square&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/wiseaidev/yew-components)
 [![Share On Linkedin](https://img.shields.io/badge/share%20on-linkedin-3949AB?style=flat-square&logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://github.com/wiseaidev/yew-components&amp;title=A%20Collection%20of%20Reusable%20Yew%20Framework%20Components.)
 
-This repository contains a collection of reusable components written in Rust for the Yew framework. The components cover a range of functionalities, from login and register forms to contact us, forget password forms, etc. Each component is implemented using different CSS frameworks like Bootstrap, Tailwind CSS, PostCSS, or even in just pure CSS, providing flexibility and ease of integration.
+This repository contains a collection of reusable components written in Rust for the Yew framework. The components cover a range of functionalities, from login and register forms to contact us, forget password forms, etc. Each component is implemented using different CSS frameworks like Bootstrap, Tailwind CSS, Bulma CSS, or even in just pure CSS, providing flexibility and ease of integration.
 
 ## 📖 Prologue
 
@@ -64,7 +64,8 @@ This subsection lists components implemented using the [Tailwind CSS](https://ta
 
 | ID | Preview | Repo |
 |---|---|---|
-| 1 | ![Component 1](https://github.com/wiseaidev/yew-components-tailwind/blob/main/assets/form-1.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-tailwind#-tailwind-css-components) |
+| 1 | ![Component 1](https://github.com/wiseaidev/yew-components-tailwind/blob/main/assets/form-one.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-tailwind#-tailwind-css-components) |
+| 2 | ![Component 2](https://github.com/wiseaidev/yew-components-tailwind/blob/main/assets/form-two.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-tailwind#-tailwind-css-components) |
 
 ### 🌈 Bulma CSS Components
 
