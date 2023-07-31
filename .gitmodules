@@ -1,0 +1,6 @@
+[submodule "yew-components-bootstrap"]
+	path = yew-components-bootstrap
+	url = https://github.com/wiseaidev/yew-components-bootstrap.git
+[submodule "yew-components-tailwind"]
+	path = yew-components-tailwind
+	url = https://github.com/wiseaidev/yew-components-tailwind.git

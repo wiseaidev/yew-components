@@ -43,37 +43,39 @@ Navigate to http://localhost:3000 to explore all available components.
 
 This section provides detailed information about the individual components included in the repository. The components are organized based on the CSS framework used for their implementation.
 
-### 🎨 Pure CSS Components
-
-This subsection lists components implemented using just pure CSS. Pure CSS components provide a lightweight and minimalistic approach to styling web applications. Each component is designed without relying on external libraries, making them easy to integrate into any project.
-
-| ID | Demo | Live Demo | Repository | Localhost |
-|---|---|---|---|---|
-| 1 | ![Pure CSS Component 1](link-to-gif) | [Live Demo](link-to-live-demo) | [Repo](link-to-repo) | [Localhost](link-to-relocalhosto) |
-
 ### 📙 Bootstrap Components
 
 This subsection lists components implemented using the [Bootstrap CSS](https://getbootstrap.com/) framework. Bootstrap is a popular front-end framework that provides a rich set of components and styles, allowing developers to build responsive and visually appealing web applications.
 
-| ID | Demo | Live Demo | Repository | Localhost |
-|-----|---|---|---|---|
-| 1 | ![Bootstrap Component 1](link-to-gif) | [Live Demo](link-to-live-demo) | [Repo](link-to-repo) | [Localhost](link-to-relocalhosto) |
+| ID | Preview | Repo |
+|---|---|---|
+| 1 | ![Component 1](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-one.png) | [🔗 Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 2 | ![Component 2](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-two.png) | [🔗 Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 3 | ![Component 3](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-three.png) | [🔗 Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
 
 ### 🌀 Tailwind CSS Components
 
 This subsection lists components implemented using the [Tailwind CSS](https://tailwindcss.com/) framework. Tailwind CSS is a utility-first CSS framework that provides a set of pre-defined classes to quickly build custom and responsive designs.
 
-| ID | Demo | Live Demo | Repository | Localhost |
-|-----|---|---|---|---|
-| 1 | ![Tailwind CSS Component 1](link-to-gif) | [Live Demo](link-to-live-demo) | [Repo](link-to-repo) | [Localhost](link-to-relocalhosto) |
+| ID | Preview | Repo |
+|---|---|---|
+| 1 | ![Component 1](https://github.com/wiseaidev/yew-components-tailwind/blob/main/assets/form-1.png) | [🔗 Repo](https://github.com/wiseaidev/yew-components-tailwind#-tailwind-css-components) |
 
 ### 🌈 Bulma CSS Components
 
 This subsection lists components implemented using the [Bulma CSS](https://bulma.io/) framework. Bulma CSS is a modern and modular CSS framework that offers a wide range of components and utilities.
 
-| ID | Demo | Live Demo | Repository | Localhost |
-|-----|---|---|---|---|
-| 1 | ![Bulma CSS Component 1](link-to-gif) | [Live Demo](link-to-live-demo) | [Repo](link-to-repo) | [Localhost](link-to-relocalhosto) |
+| ID | Preview | Repo |
+|---|---|---|
+| 1 | ![Component 1](./assets/form-1.png) | [🔗 Repo](todo) |
+
+### 🎨 Pure CSS Components
+
+This subsection lists components implemented using just pure CSS. Pure CSS components provide a lightweight and minimalistic approach to styling web applications. Each component is designed without relying on external libraries, making them easy to integrate into any project.
+
+| ID | Preview | Repo |
+|---|---|---|
+| 1 | ![Component 1](./assets/form-1.png) | [🔗 Repo](todo) |
 
 ## 🤝 Contributing
 
