@@ -47,16 +47,16 @@ This section provides detailed information about the individual components inclu
 
 This subsection lists components implemented using the [Bootstrap CSS](https://getbootstrap.com/) framework. Bootstrap is a popular front-end framework that provides a rich set of components and styles, allowing developers to build responsive and visually appealing web applications.
 
-| ID | Preview | Repo |
-|---|---|---|
-| 1 | ![Component 1](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-one.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
-| 2 | ![Component 2](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-two.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
-| 3 | ![Component 3](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-three.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
-| 4 | ![Component 4](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-four.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
-| 5 | ![Component 5](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-five.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
-| 6 | ![Component 6](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-six.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
-| 7 | ![Component 7](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-seven.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
-| 8 | ![Component 8](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-eight.png) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| ID | Preview | | Demo | Repo |
+| --- | --- | --- | --- |
+| 1 | ![Component 1](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-one.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-1.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 2 | ![Component 2](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-two.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-2.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 3 | ![Component 3](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-three.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-3.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 4 | ![Component 4](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-four.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-4.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 5 | ![Component 5](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-five.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-5.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 6 | ![Component 6](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-six.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-6.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 7 | ![Component 7](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-seven.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-7.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
+| 8 | ![Component 8](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-eight.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-8.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
 
 ### 🌀 Tailwind CSS Components
 
@@ -85,7 +85,7 @@ This subsection lists components implemented using just pure CSS. Pure CSS compo
 
 ## 🤝 Contributing
 
-We welcome contributions to enhance the Rust Data Analysis repository! To contribute, please follow the [`CONTRIBUTING.md`](CONTRIBUTING.md) file guidelines. Thank you for helping make this project better!
+We welcome contributions to enhance the Yew Components repository! To contribute, please follow the [`CONTRIBUTING.md`](CONTRIBUTING.md) file guidelines. Thank you for helping make this project better!
 
 ## 📜 License
 
