@@ -47,7 +47,7 @@ This section provides detailed information about the individual components inclu
 
 This subsection lists components implemented using the [Bootstrap CSS](https://getbootstrap.com/) framework. Bootstrap is a popular front-end framework that provides a rich set of components and styles, allowing developers to build responsive and visually appealing web applications.
 
-| ID | Preview | | Demo | Repo |
+| ID | Preview | Demo | Repo |
 |---|---|---|---|
 | 1 | ![Component 1](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-one.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-1.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
 | 2 | ![Component 2](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-two.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-2.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
