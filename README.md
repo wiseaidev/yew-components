@@ -47,7 +47,7 @@ This section provides detailed information about the individual components inclu
 
 This subsection lists components implemented using the [Bootstrap CSS](https://getbootstrap.com/) framework. Bootstrap is a popular front-end framework that provides a rich set of components and styles, allowing developers to build responsive and visually appealing web applications.
 
-| ID | Preview | Demo | Repo |
+| ID | Preview | Demo | Repository |
 |---|---|---|---|
 | 1 | ![Component 1](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-one.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-1.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
 | 2 | ![Component 2](https://github.com/wiseaidev/yew-components-bootstrap/blob/main/assets/form-two.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://bootstrap-login-form-2.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
@@ -62,7 +62,7 @@ This subsection lists components implemented using the [Bootstrap CSS](https://g
 
 This subsection lists components implemented using the [Tailwind CSS](https://tailwindcss.com/) framework. Tailwind CSS is a utility-first CSS framework that provides a set of pre-defined classes to quickly build custom and responsive designs.
 
-| ID | Preview | Demo | Localhost |
+| ID | Preview | Demo | Repository |
 |---|---|---|---|
 | 1 | ![Component 1](https://github.com/wiseaidev/yew-components-tailwind/blob/main/assets/form-one.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://tailwind-login-form-1.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-tailwind#-tailwind-css-components) |
 | 2 | ![Component 2](https://github.com/wiseaidev/yew-components-tailwind/blob/main/assets/form-two.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://tailwind-login-form-2.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-tailwind#-tailwind-css-components) |
@@ -72,7 +72,7 @@ This subsection lists components implemented using the [Tailwind CSS](https://ta
 
 This subsection lists components implemented using the [Bulma CSS](https://bulma.io/) framework. Bulma CSS is a modern and modular CSS framework that offers a wide range of components and utilities.
 
-| ID | Preview | Repo |
+| ID | Preview | Repository |
 |---|---|---|
 | 1 | ![Component 1](./assets/form-1.png) | [🔗Repo](todo) |
 
@@ -80,7 +80,7 @@ This subsection lists components implemented using the [Bulma CSS](https://bulma
 
 This subsection lists components implemented using just pure CSS. Pure CSS components provide a lightweight and minimalistic approach to styling web applications. Each component is designed without relying on external libraries, making them easy to integrate into any project.
 
-| ID | Preview | Demo | Repo |
+| ID | Preview | Demo | Repository |
 |---|---|---|---|
 | 1 | ![Component 1](https://github.com/wiseaidev/yew-components-pure-css/blob/main/assets/form-one.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://pure-css-form-1.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-pure-css#-bootstrap-css-components) |
 
