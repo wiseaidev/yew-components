@@ -79,9 +79,12 @@ This subsection lists components implemented using the [Bulma CSS](https://bulma
 
 This subsection lists components implemented using just pure CSS. Pure CSS components provide a lightweight and minimalistic approach to styling web applications. Each component is designed without relying on external libraries, making them easy to integrate into any project.
 
-| ID | Preview | Repo |
+| ID | Preview | Demo | Repo |
+|---|---|---|---|
+| 1 | ![Component 1](https://github.com/wiseaidev/yew-components-pure-css/blob/main/assets/form-one.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://pure-css-form-1.netlify.app/) | [🔗Repo](https://github.com/wiseaidev/yew-components-bootstrap#-bootstrap-css-components) |
 |---|---|---|
-| 1 | ![Component 1](./assets/form-1.png) | [🔗Repo](todo) |
+| 1 | ![Component 1](./assets/form-one.png) | [![Netlify Status](https://api.netlify.com/api/v1/badges/68d1469e-05ee-4acd-9368-b67d9e53bc2e/deploy-status)](https://pure-css-form-1.netlify.app/) | [Localhost](http://localhost:3000/1) |
+
 
 ## 🤝 Contributing
 

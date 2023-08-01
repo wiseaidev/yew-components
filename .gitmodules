@@ -4,3 +4,6 @@
 [submodule "yew-components-tailwind"]
 	path = yew-components-tailwind
 	url = https://github.com/wiseaidev/yew-components-tailwind.git
+[submodule "yew-components-pure-css"]
+	path = yew-components-pure-css
+	url = https://github.com/wiseaidev/yew-components-pure-css
